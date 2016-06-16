@@ -1,0 +1,7 @@
+Wed, 15 Jun 2016 12:36:56 +0500
+doc/README_FOR_APP	Wed, 15 Jun 2016 10:01:34 +0500
+app/controllers/application_controller.rb	Wed, 15 Jun 2016 10:01:34 +0500
+app/controllers/posts_controller.rb	Wed, 15 Jun 2016 10:08:19 +0500
+app/helpers/application_helper.rb	Wed, 15 Jun 2016 10:01:34 +0500
+app/helpers/posts_helper.rb	Wed, 15 Jun 2016 10:08:19 +0500
+app/models/post.rb	Wed, 15 Jun 2016 10:08:19 +0500
